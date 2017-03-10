@@ -8,7 +8,7 @@ var filepath = { media: 'media/', msg_ja:"msg/js/ja.js", msg_en: "msg/js/en.js",
   html += '<script type="text/javascript" src="js/blockly_compressed.js"></script>';
   html += '<script type="text/javascript" src="js/blocks_compressed.js"></script>';
   html += '<script type="text/javascript" src="js/arduino_compressed.js"></script>';
-  html += '<script type="text/javascript" src="/msg/js/en.js"></script>';
+  html += '<script type="text/javascript" src="msg/js/en.js"></script>';
   html += '<script type="text/javascript" src="js/Blob.js"></script>';
   html += '<script type="text/javascript" src="js/spin.js"></script>';
   html += '<script type="text/javascript" src="js/FileSaver.min.js"></script>';
