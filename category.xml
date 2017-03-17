@@ -538,6 +538,12 @@
         <block type="mpr121_reset"></block>
     </category>
 </category>
+<category id="category_sparkfun">
+    <category id="category_ir_remote">
+        <block type="ir_remote_get"></block>
+        <block type="ir_remote_button"></block>
+    </category>
+</category>
 <category id="category_robot">
     <category id="category_shield_bot">
         <block type="shield_bot_setmaxspeed"></block>
